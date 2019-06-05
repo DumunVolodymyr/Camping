@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: ua.lviv.iot.camping.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.48 s <<< FAILURE! - in ua.lviv.iot.camping.DemoApplicationTests
+initializationError(ua.lviv.iot.camping.DemoApplicationTests)  Time elapsed: 0.01 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

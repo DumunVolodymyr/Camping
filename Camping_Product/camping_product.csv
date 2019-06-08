@@ -1,0 +1,6 @@
+producerName,price,weight,capacity,construction,tentForm
+Reebok,500.0,20.0,4,ONE_STORY,LODGE
+producerName,price,weight,volumes,backbackType,color
+Adidas,500.0,15.0,40.0,BAG,RED
+producerName,price,weight,type,lenght,sleepingBagMaterial
+Aer,500.0,30.0,Blanket,2.0,WOOL
